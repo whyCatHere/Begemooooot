@@ -1,0 +1,6 @@
+{
+  "name": "EduBot Control & Study Solver",
+  "description": "Telegram бот та панель керування для розв'язання контрольних робіт, тестів і завдань за завантаженими підручниками з системою облікових записів та Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
